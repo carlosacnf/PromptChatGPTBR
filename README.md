@@ -1,7 +1,5 @@
 <p align="center"><h1> Incríveis ChatGPT Prompts</h1></p> 🧠
 
-[! [Incrível] (https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)] (https://github.com/sindresorhus/awesome) [! [Navio a vapor] (https://raw.githubusercontent.com/steamship-core/python-client/main/badge.svg)] (https://www.steamship.com/build?utm_source=github&utm_medium=badge&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)
-
 Bem-vindo ao repositório "Awesome ChatGPT Prompts"! Esta é uma coleção de exemplos de prompt a serem usados com o modelo ChatGPT.
 
 O modelo [ChatGPT](https://chat.openai.com/chat) é um modelo de linguagem grande treinado por [OpenAI](https://openai.com) que é capaz de gerar texto semelhante ao humano. Ao fornecer-lhe um prompt, ele pode gerar respostas que continuam a conversa ou expandem o prompt fornecido.
