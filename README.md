@@ -1,73 +1,3 @@
-<p align="center"><h1> Incríveis ChatGPT Prompts</h1></p> 🧠
-
-Bem-vindo ao repositório "Awesome ChatGPT Prompts"! Esta é uma coleção de exemplos de prompt a serem usados com o modelo ChatGPT.
-
-O modelo [ChatGPT](https://chat.openai.com/chat) é um modelo de linguagem grande treinado por [OpenAI](https://openai.com) que é capaz de gerar texto semelhante ao humano. Ao fornecer-lhe um prompt, ele pode gerar respostas que continuam a conversa ou expandem o prompt fornecido.
-
-Neste repositório, você encontrará uma variedade de prompts que podem ser usados com o ChatGPT. Encorajamos você a [adicionar seus próprios prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) à lista e a usar o ChatGPT para gerar novos prompts também.
-
-Para começar, basta clonar este repositório e usar os prompts no arquivo README.md como entrada para o ChatGPT. Você também pode usar os prompts neste arquivo como inspiração para criar o seu próprio.
-
-Esperamos que você ache esses prompts úteis e se divirta usando o ChatGPT!
-
-**[Ver no GitHub](https://github.com/f/awesome-chatgpt-prompts)**
-
-**[Ver em Abraçando o Rosto](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
-
-**Baixe o aplicativo ChatGPT para desktop**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)** 
-
- i️ > **NOTA:** Às vezes, alguns dos prompts podem não estar funcionando como você esperava ou podem ser rejeitados pela IA. Tente novamente, inicie um novo thread ou faça logout e login novamente. Se essas soluções não funcionarem, tente reescrever o prompt usando suas próprias frases, mantendo as mesmas instruções.
-### Quer escrever prompts eficazes?
-
-Eu sou autor de um e-book gratuito chamado **"The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts"**.
-
-📖 **[Leia o e-book gratuito](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
-
-### Quer implantar seu próprio aplicativo Prompt?
-
-O pessoal do [Steamship](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts) criou uma estrutura para hospedar e compartilhar seus aplicativos GPT. Eles estão patrocinando este repositório, dando-lhe acesso gratuito (até 500 chamadas por dia) aos modelos GPT mais recentes. 
-
-👷 ♂️ **[Crie seu próprio aplicativo GPT Prompt](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)**
-
-### Quer aprender a ganhar dinheiro usando os prompts do ChatGPT?
-
-Eu sou autor de um e-book chamado **"Como Ganhar Dinheiro com o ChatGPT: Estratégias, Dicas e Táticas"**.
-
-📖 **[Compre o e-book](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
-
----
-
-## Outros recursos de solicitação
-
-### Quer aprender a escrever prompts de imagem para Midjourney AI?
-
-Eu sou autor de um e-book chamado **"The Art of Midjourney AI: A Guide to Creating Images from Text"**.
-
-📖 **[Leia o e-book](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
-
----
-
-### Usando o aplicativo de desktop ChatGPT
-
-O aplicativo de desktop _unofficial_ ChatGPT fornece uma maneira conveniente de acessar e usar os prompts neste repositório. Com o aplicativo, você pode facilmente importar todos os prompts e usá-los com comandos de barra, como '/linux_terminal'. Esse recurso elimina a necessidade de copiar e colar manualmente os prompts sempre que você quiser usá-los.
-
-> **Desktop App é um [projeto de código aberto não oficial da @lencx](https://github.com/lencx/ChatGPT). É um wrapper simples para a interface web do ChatGPT com extras poderosos.**
-<img width="400" alt="Screenshot 2022-12-19 at 19 13 41" src="https://user-images.githubusercontent.com/196477/208471439-877c2bcf-93ec-4ad9-9cb0-7e4ed7b1756a.png">
-
----
-
-### Crie seu próprio prompt usando IA
-
-[Merve Noyan] (https://huggingface.co/merve) criou um excepcional [ChatGPT Prompt Generator App](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator), permitindo que os usuários gerem prompts adaptados à persona desejada. O aplicativo usa esse repositório como seu conjunto de dados de treinamento.
-  
----
-
-### Usando prompts.chat
-
-[prompts.chat] (https://prompts.chat) foi projetado para fornecer uma experiência do usuário aprimorada ao trabalhar com prompts. Com apenas alguns cliques, você pode facilmente editar e copiar os prompts no site para atender às suas necessidades e preferências específicas. O botão Copiar copiará o prompt exatamente como você o editou.
-
-<loop de reprodução automática de vídeo silenciado playsinline src="https://user-images.githubusercontent.com/196477/207992596-6846398c-9ee7-4d7b-8fbe-b7c9e6daad23.mov"></video>
-
 ---
 
  # Prompts
@@ -623,27 +553,8 @@ Contribuição de [@lemorage](https://github.com/lemorage)
 ## Atuar como conselheiro de bilhetes de viagem baratos
 Contribuição de [@goeksu](https://github.com/goeksu)
 > Você é um consultor de bilhetes de viagem baratos especializado em encontrar as opções de transporte mais acessíveis para seus clientes. Quando fornecido com cidades de partida e destino, bem como datas de viagem desejadas, você usa seu amplo conhecimento dos preços dos bilhetes passados, dicas e truques para sugerir as rotas mais baratas. Suas recomendações podem incluir transferências, escalas prolongadas para explorar cidades de transferência e vários modos de transporte, como aviões, compartilhamento de carros, trens, navios ou ônibus. Além disso, você pode recomendar sites para combinar diferentes viagens e voos para alcançar a viagem mais econômica.
-## Colaboradores 😍
 
  # ProfessorGPT
-
-Um conjunto de extensos prompts para criar personas de professores a partir de muitos assuntos de um modelo de linguagem grande conversacional como o ChatGPT
-
-Você pode ver o meu principal projeto GPT, FriendGPT [Aqui!!] (https://github.com/LouCodingStuff/FriendGPT)
-
-## Características
-
-- Com este conjunto de prompts, o usuário é capaz de direcionar um LLM para abranger a persona de um professor de uma variedade de assuntos diferentes.
-- Espero ter uma grande variedade de assuntos cobertos pelo TeacherGPT
-
-## Assuntos Abordados
-
-- Matemática, História, Biologia, Psicologia.
-
-## Como usar o TeacherGPT
-
-Tudo o que você precisa fazer é copiar e colar um dos prompts abaixo em um modelo de conversação como o ChatGPT ou qualquer outro modelo de sua preferência. 
-
 
 
 # Futuro do ProfessorGPT
